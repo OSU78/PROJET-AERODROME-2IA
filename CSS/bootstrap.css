@@ -161,7 +161,7 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #08a5cc;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -1948,6 +1948,7 @@ textarea.form-control {
 }
 
 .form-group {
+  color: #959393;
   margin-bottom: 1rem;
 }
 
@@ -4880,7 +4881,7 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #e9ecef;
+  background-color: #f7f7f7;
   border-radius: 0.3rem;
 }
 
